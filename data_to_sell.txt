@@ -1,0 +1,9 @@
+{'userId': 'nksd-lle3', 'realName': "Kevin O'Leary aka Mr. Wonderful", 'username': 'kevinolearytv', 'email': 'mrwonderful@kevinoleary.com', 'phone': '5141128497', 'located': 'Montreal', 'isPrivate': False, 'isVerified': True}
+{'userId': '94fd-vni9', 'realName': 'Donald Trump Jr.', 'username': 'DonaldJTrumpJr', 'email': 'djtjr@trumporg.com', 'phone': '2128329155', 'located': 'Manhattan, NY', 'isPrivate': False, 'isVerified': True}
+{'userId': '884g-dfs2', 'realName': 'Michelle Nguyen', 'username': 'meeshell', 'email': 'michelle.nguyen@outlook.com', 'phone': '5127763232', 'located': 'Texas', 'isPrivate': False, 'isVerified': False}
+{'userId': 'njgf-f3nk', 'realName': 'Mark Cuban', 'username': 'mcuban', 'email': 'mark.cuban@gmail.com', 'phone': '4123812900', 'located': 'Pennsylvania', 'isPrivate': False, 'isVerified': True}
+{'userId': 'ljks-9sf0', 'realName': 'Jane Doe', 'username': 'JaneDoosie', 'email': 'doe_jane@yahoo.com', 'phone': '5555555555', 'located': None, 'isPrivate': False, 'isVerified': False}
+{'userId': 'ewhe-43fn', 'realName': 'Morgan Cho', 'username': 'ChoMorgan', 'email': 'morgancho@yahoo.com', 'phone': '5039871837', 'located': 'Oregon', 'isPrivate': False, 'isVerified': False}
+{'userId': 'scl3-3oe0', 'realName': 'Alexis Montoya', 'username': 'montoyaa', 'email': 'montoyaalexis@gmail.com', 'phone': '3058172733', 'located': 'Florida', 'isPrivate': False, 'isVerified': False}
+{'userId': 'aajr-9cje', 'realName': 'Alexandria Ocasio-Cortez', 'username': 'AOC', 'email': 'alexandriaocasio-cortez@gmail.com', 'phone': '7180903813', 'located': 'Bronx, NY', 'isPrivate': False, 'isVerified': True}
+{'userId': '89h4-fji3', 'realName': 'Jacob Garrison', 'username': 'zeroTrussModelHomes', 'email': 'garrison.jacob@gmail.com', 'phone': '6509972323', 'located': 'California', 'isPrivate': False, 'isVerified': False}
